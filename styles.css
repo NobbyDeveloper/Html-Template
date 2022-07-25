@@ -11,13 +11,13 @@
 }
 
 body {
-	text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
 }
 
 html, body {
-	min-height: 100%;
-	background: #fff;
-	color: #000;
+ min-height: 100%;
+ background: #fff;
+ color: #000;
 }
 	
 /* [[ ===== Resonsive desing - 600 px=====]] */

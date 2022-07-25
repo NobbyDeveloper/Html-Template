@@ -1,2 +1,2 @@
 # Html-Template
-A basic HTML template with basic comments for a cleaner code.
+A basic HTML and CSS template with basic comments for a cleaner code.

@@ -20,4 +20,8 @@ html, body {
 	color: #000;
 }
 	
-g
+/* [[ ===== Resonsive desing - 600 px=====]] */
+
+@media only screen and (min-width: 37.5em) {
+    /* [[ ===== Stuff =====]] */
+}
